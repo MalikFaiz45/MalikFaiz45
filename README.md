@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 -->
 <!-- ===== TOP BANNER ===== -->
 <p align="center">
-  <img src="banner.png" alt="Banner" width="100%" />
+  <img src="background.png" alt="Banner" width="100%" />
 </p>
 
 <!-- ===== PROFILE IMAGE ===== -->
 <p align="center">
-  <img src=".png" alt="Profile Image" width="160" style="border-radius:50%;" />
+  <img src="whatsapp.png" alt="Profile Image" width="160" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">Hi 👋 I'm Faiz Anwar</h1>
