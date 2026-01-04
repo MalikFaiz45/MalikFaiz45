@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 </div>
 
 <!-- ===== PROFILE IMAGE ===== -->
-<div style="position: relative;top:120px;left:40px;>
-  <img src="WhatsApp Image 2026-01-01 at 11.32.26 AM.jpeg" alt="Profile Image" width="160" style="border-radius:50%;border:2px solid white; " />
+<div style="position: relative;margin-top:-90px;margin-left:30px;>
+  <img src="WhatsApp Image 2026-01-01 at 11.32.26 AM.jpeg" alt="Profile Image" width="160" style="border-radius:50%; border:4px solid white; " />
 </div>
-<br><br><br>
+<br>
 
 <h1 align="center">Hi 👋 I'm Faiz Anwar</h1>
 <h3 align="center">
