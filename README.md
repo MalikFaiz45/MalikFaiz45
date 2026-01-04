@@ -1,5 +1,5 @@
 
-## Hi there 👋
+## Hi ASLAMUALIKUM ! 👋
 
 <!--
 **MalikFaiz45/MalikFaiz45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,14 +16,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- ===== TOP BANNER ===== -->
-<p align="center">
-  <img src="background.jpeg" alt="Banner" width="100%" />
-</p>
+<div align="left">
+  <img src="background.jpeg" alt="profile background" width="100%" />
+</div>
 
 <!-- ===== PROFILE IMAGE ===== -->
-<p align="center">
-  <img src="WhatsApp Image 2026-01-01 at 11.32.26 AM.jpeg" alt="Profile Image" width="160" style="border-radius:50%;" />
-</p>
+<div style="position: relative;top:120px;left:40px;>
+  <img src="WhatsApp Image 2026-01-01 at 11.32.26 AM.jpeg" alt="Profile Image" width="160" style="border-radius:50%;border:2px solid white; " />
+</div>
+<br><br><br>
 
 <h1 align="center">Hi 👋 I'm Faiz Anwar</h1>
 <h3 align="center">
@@ -93,7 +94,7 @@ Web Developer | Python Programmer | Future AI & ML Engineer
 ---
 
 ## 📫 Contact Me
-📧 Email: your-email@gmail.com  
+📧 Email: malik1faiz45@gmail.com  
 🌐 Portfolio: Coming Soon  
 
 ---
