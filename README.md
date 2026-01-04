@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 -->
 <!-- ===== TOP BANNER ===== -->
 <p align="center">
-  <img src="background.png" alt="Banner" width="100%" />
+  <img src="background.jpeg" alt="Banner" width="100%" />
 </p>
 
 <!-- ===== PROFILE IMAGE ===== -->
 <p align="center">
-  <img src="whatsapp.png" alt="Profile Image" width="160" style="border-radius:50%;" />
+  <img src="WhatsApp Image 2026-01-01 at 11.32.26 AM.jpeg" alt="Profile Image" width="160" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">Hi 👋 I'm Faiz Anwar</h1>
@@ -37,7 +37,7 @@ Web Developer | Python Programmer | Future AI & ML Engineer
 ---
 
 ## 👨‍💻 About Me
-🎓 Computer Science Student  
+🎓 BS AI Student (UNDERGRADUATE) 
 🌐 Skilled in Web Development  
 🐍 Python Programmer  
 💻 C++ Developer  
@@ -80,14 +80,14 @@ Web Developer | Python Programmer | Future AI & ML Engineer
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MalikFaiz45&show_icons=true" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME" />
+  <img src="https://streak-stats.demolab.com?user=Malikfaiz45" />
 </p>
 
 ---
