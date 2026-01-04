@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- ===== TOP BANNER ===== -->
-<div align="left">
+<p align="center">
   <img src="background.jpeg" alt="profile background" width="100%" />
-</div>
+</p>
 
 <!-- ===== PROFILE IMAGE ===== -->
-<div style="position: relative;margin-top:-90px;margin-left:30px;>
+<p align="center">
   <img src="WhatsApp Image 2026-01-01 at 11.32.26 AM.jpeg" alt="Profile Image" width="160" style="border-radius:50%; border:4px solid white; " />
-</div>
+</p>
 <br>
 
 <h1 align="center">Hi 👋 I'm Faiz Anwar</h1>
