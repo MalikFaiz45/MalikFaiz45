@@ -78,6 +78,16 @@ Web Developer | Python Programmer | Future AI & ML Engineer
 - Data Concepts & Algorithms
 
 ---
+<h1>Achievement...</h1>
+<p>CERTIFICATE..</p>
+<p align="left">
+  <img src="course.jpg.jpeg" alt="Profile Image" width="200" style="border-radius:50%; border:4px solid white; " />
+   <img src="course.jpeg" alt="Profile Image" width="200" style="border-radius:50%; border:4px solid white; " />
+  
+</p>
+
+
+
 
 ## 📊 GitHub Stats
 <p align="center">
