@@ -82,7 +82,7 @@ Web Developer | Python Programmer | Future AI & ML Engineer
 <p>CERTIFICATE..</p>
 <p align="left">
   <img src="course.jpg.jpeg" alt="Profile Image" width="200" style="border-radius:50%; border:4px solid white; " />
-   <img src="course.jpeg" alt="Profile Image" width="200" style="border-radius:50%; border:4px solid white; " />
+   <img src="cousre.jpeg" alt="Profile Image" width="200" style="border-radius:50%; border:4px solid white; " />
   
 </p>
 
