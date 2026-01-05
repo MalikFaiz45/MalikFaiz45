@@ -47,10 +47,14 @@ Web Developer | Python Programmer | Future AI & ML Engineer
 ---
 <h1 align="center">Skills</h1>
 
-<h2> Web Development</h2> 
-- HTML5
-- CSS3
-- JavaScript (Basic)
+<!-- <h2> Web Development</h2> 
+<h4>* HTML5</h4>
+<h4>* CSS3</h4>
+<h4>* JavaScript (Basic)</h4> -->
+
+* HTML5
+* CSS3
+* JavaScript (Basic)
 -  <img src="website.jpeg" alt="Virtual box Image" width="300px" height="400px" style="border-radius:25%; border:4px solid white; " />
   
 ### 🧠 Programming Languages
@@ -61,7 +65,9 @@ Web Developer | Python Programmer | Future AI & ML Engineer
 - Git & GitHub
 - VS Code
 - Simplilearn (ML Learning)
-
+<p align="center">
+   <img src="icon.jpeg" alt="Virtual box Image" width="300px" height="400px" style="border-radius:25%; border:4px solid white; " />
+</p>
 ---
 <div>
   <section align="left">
@@ -97,14 +103,14 @@ Web Developer | Python Programmer | Future AI & ML Engineer
 
 
 
-## 📊 GitHub Stats
+<h1 align="center"> GitHub Stats</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MalikFaiz45&show_icons=true" />
 </p>
 
 ---
+<h1 align="center">GitHub Streak </h1>
 
-## 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Malikfaiz45" />
 </p>
