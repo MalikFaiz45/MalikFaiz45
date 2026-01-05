@@ -45,14 +45,14 @@ Web Developer | Python Programmer | Future AI & ML Engineer
 <h4>* Currently learning *Machine Learning from Simplilearn*</h4>
 
 ---
+<h1 align="center">Skills</h1>
 
-## 🛠️ Skills
-
-### 🌐 Web Development
+<h2> Web Development</h2> 
 - HTML5
 - CSS3
 - JavaScript (Basic)
-   <img src="program.jpeg" alt="Virtual box Image" width="300px" height="400px" style="border-radius:25%; border:4px solid white; " />
+-  <img src="website.jpeg" alt="Virtual box Image" width="300px" height="400px" style="border-radius:25%; border:4px solid white; " />
+  
 ### 🧠 Programming Languages
 - Python
 - C++
@@ -65,7 +65,7 @@ Web Developer | Python Programmer | Future AI & ML Engineer
 ---
 <div>
   <section align="left">
-  <h1> Career Objective </h1>
+  <h1 align="center"> Career Objective </h1>
   <h4>🚀 Become a professional *AI & Machine Learning Engineer*  </h4>
 <h4>🧠 Build smart systems that solve real-world problems</h4>  
 <h4>🌍 Contribute to open-source & innovative tech solutions </h4>
@@ -79,14 +79,14 @@ Web Developer | Python Programmer | Future AI & ML Engineer
   </section>
 </div>
 
+<h1 align="center"> Currently Learning</h1>
+<h4>*  Machine Learning (Simplilearn)</h4>
+<h4>*  Python for AI</h4>
+<h4>* Data Concepts & Algorithms</h4>
 
-## 📚 Currently Learning
-- Machine Learning (Simplilearn)
-- Python for AI
-- Data Concepts & Algorithms
 
 ---
-<h1>Achievement...</h1>
+<h1 align="center">Achievement...</h1>
 <p>CERTIFICATE..</p>
 <p align="left">
   <img src="course.jpg.jpeg" alt="Profile Image" width="200" style="border-radius:50%; border:4px solid white; " />
