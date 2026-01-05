@@ -25,16 +25,13 @@ Here are some ideas to get you started:
   <img src="WhatsApp Image 2026-01-01 at 11.32.26 AM.jpeg" alt="Profile Image" width="160" style="border-radius:50%; border:4px solid white; " />
 </p>
 <br>
-
 <h1 align="center">Hi 👋 I'm Faiz Anwar</h1>
 <h3 align="center">
 Web Developer | Python Programmer | Future AI & ML Engineer
 </h3>
-
 <p align="center">
 🚀 Passionate about technology, intelligent systems & real-world solutions
 </p>
-
 ---
 <h1 align="center">ABOUT ME...</h1>
 <h4>🎓 BS AI Student (UNDERGRADUATE)</h4>
@@ -43,7 +40,6 @@ Web Developer | Python Programmer | Future AI & ML Engineer
 <h4>* C++ Developer  </h4>
 <h4>* Future *Machine Learning / AI Engineer*</h4>
 <h4>* Currently learning *Machine Learning from Simplilearn*</h4>
-
 ---
 <h1 align="center">Skills</h1>
 
@@ -51,16 +47,13 @@ Web Developer | Python Programmer | Future AI & ML Engineer
 <h4>* HTML5</h4>
 <h4>* CSS3</h4>
 <h4>* JavaScript (Basic)</h4> -->
-
 * HTML5
 * CSS3
 * JavaScript (Basic)
--  <img src="website.jpeg" alt="Virtual box Image" width="300px" height="400px" style="border-radius:25%; border:4px solid white; " />
-  
+  <p align="center"><img src="website.jpeg" alt="Virtual box Image" width="300px" height="400px" style="border-radius:25%; border:4px solid white; " /></p>
 ### 🧠 Programming Languages
 - Python
 - C++
-
 ### ⚙️ Tools & Platforms
 - Git & GitHub
 - VS Code
@@ -84,37 +77,28 @@ Web Developer | Python Programmer | Future AI & ML Engineer
       <img src="program.jpeg" alt="Virtual box Image" width="300px" height="400px" style="border-radius:25%; border:4px solid white; " />
   </section>
 </div>
-
 <h1 align="center"> Currently Learning</h1>
 <h4>*  Machine Learning (Simplilearn)</h4>
 <h4>*  Python for AI</h4>
 <h4>* Data Concepts & Algorithms</h4>
-
-
 ---
 <h1 align="center">Achievement...</h1>
 <p>CERTIFICATE..</p>
 <p align="left">
   <img src="course.jpg.jpeg" alt="Profile Image" width="200" style="border-radius:50%; border:4px solid white; " />
    <img src="cousre.jpeg" alt="Profile Image" width="200" style="border-radius:50%; border:4px solid white; " />
-  
 </p>
-
-
-
-
-<h1 align="center"> GitHub Stats</h1>
+ <h1 align="center"> GitHub Stats</h1>
+<!--![GitHub stats](https:/?github-readme-stats.vercel.app/api?MalikFaiz45=MalikFaiz45&show_icons=true) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MalikFaiz45&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MalikFaiz45&show_icons=true theme=radical" />
 </p>
-
 ---
 <h1 align="center">GitHub Streak </h1>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Malikfaiz45" />
 </p>
-
 ---
 
 ## 📫 Contact Me
