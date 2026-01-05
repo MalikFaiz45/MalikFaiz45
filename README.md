@@ -36,14 +36,13 @@ Web Developer | Python Programmer | Future AI & ML Engineer
 </p>
 
 ---
-
-## 👨‍💻 About Me
-🎓 BS AI Student (UNDERGRADUATE) 
-🌐 Skilled in Web Development  
-🐍 Python Programmer  
-💻 C++ Developer  
-🤖 Future *Machine Learning / AI Engineer*  
-📘 Currently learning *Machine Learning from Simplilearn*
+<h1 align="center">ABOUT ME...</h1>
+<h4>🎓 BS AI Student (UNDERGRADUATE)</h4>
+<h4>* Skilled in Web Development </h4>
+<h4>* Python Programmer </h4>
+<h4>* C++ Developer  </h4>
+<h4>* Future *Machine Learning / AI Engineer*</h4>
+<h4>* Currently learning *Machine Learning from Simplilearn*</h4>
 
 ---
 
@@ -53,7 +52,7 @@ Web Developer | Python Programmer | Future AI & ML Engineer
 - HTML5
 - CSS3
 - JavaScript (Basic)
-
+   <img src="program.jpeg" alt="Virtual box Image" width="300px" height="400px" style="border-radius:25%; border:4px solid white; " />
 ### 🧠 Programming Languages
 - Python
 - C++
@@ -64,13 +63,22 @@ Web Developer | Python Programmer | Future AI & ML Engineer
 - Simplilearn (ML Learning)
 
 ---
+<div>
+  <section align="left">
+  <h1> Career Objective </h1>
+  <h4>🚀 Become a professional *AI & Machine Learning Engineer*  </h4>
+<h4>🧠 Build smart systems that solve real-world problems</h4>  
+<h4>🌍 Contribute to open-source & innovative tech solutions </h4>
+     <!-- <section align="right">
+      <img src="virtual.jpeg" alt="Virtual box Image" width="600px" height="400px" style="border-radius:25%; border:4px solid white; " />
+  </section> -->
+  </section>
+  <section align="center">
+      <img src="virtual.jpeg" alt="Virtual box Image" width="300px" height="400px" style="border-radius:25%; border:4px solid white; " />
+      <img src="program.jpeg" alt="Virtual box Image" width="300px" height="400px" style="border-radius:25%; border:4px solid white; " />
+  </section>
+</div>
 
-## 🎯 Career Objective
-🚀 Become a professional *AI & Machine Learning Engineer*  
-🧠 Build smart systems that solve real-world problems  
-🌍 Contribute to open-source & innovative tech solutions  
-
----
 
 ## 📚 Currently Learning
 - Machine Learning (Simplilearn)
